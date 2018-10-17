@@ -10,6 +10,6 @@ This sketch gets the latest CheerLights color from ThingSpeak and transmits the 
     
 ![SleepyLights project photo](./Nursery_Robot_IoT.jpg 'SleepyLights nightlight')
 
-## Tutorial: http://nurseryhacks.com/nursery-robot-connected-cheerlights 
+## Tutorial: http://nothans.com/nursery-robot-connected-to-cheerlights
 
 To join the CheerLights project, visit http://www.cheerlights.com
